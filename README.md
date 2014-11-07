@@ -1,12 +1,12 @@
 GasPriceSatisfaction
 ====================
 
-Find the price/gallon combo at gas stations in your area so that they both in with .00
+Find the price/gallon combo at gas stations in your area so that they both end with .00
 
 I was inspired by posts on reddit similar to this one: 
 ![RedditPost](http://i.imgur.com/4k2BK8J.jpg?1)
 
-Change the zip code in main.swift on line 12 to whatever yours is so that it looks at the gas stations in your area. The output for my zip code, 14623 is the following:
+Change the zip code in main.swift on line 12 to whatever yours is so that it looks at the gas stations in your area. The output for my zip code, 14623, is the following:
 
 ```
 4.0 gallons at 3.25 from 7-Eleven at 3995 W Henrietta Rd, Rochester, NY 14623
